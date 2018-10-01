@@ -1,0 +1,3 @@
+### Cheap Spinner
+
+Spinner for image viewer project. Mockup, other colors needed for final project and as usual with masking/clippath Firefox doesn't want to play along quite yet...
